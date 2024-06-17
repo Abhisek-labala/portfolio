@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c7951c90.css",
-    "main.js": "/portfolio/static/js/main.a570cde1.js",
+    "main.js": "/portfolio/static/js/main.09bb1950.js",
     "static/js/453.5a6a3e46.chunk.js": "/portfolio/static/js/453.5a6a3e46.chunk.js",
     "static/media/testimonial2.jpg": "/portfolio/static/media/testimonial2.5272eaca014d3e0569b0.jpg",
     "static/media/testimonial4.jpg": "/portfolio/static/media/testimonial4.4f2666070f85cf8f0304.jpg",
@@ -18,16 +18,17 @@
     "static/media/fa-solid-900.woff2": "/portfolio/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
     "static/media/fa-brands-400.woff2": "/portfolio/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
     "static/media/fa-regular-400.ttf": "/portfolio/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.a1bca33eebbdd69fec88.pdf",
     "static/media/fa-regular-400.woff2": "/portfolio/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
     "static/media/fa-v4compatibility.ttf": "/portfolio/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
     "static/media/fa-v4compatibility.woff2": "/portfolio/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
     "index.html": "/portfolio/index.html",
     "main.c7951c90.css.map": "/portfolio/static/css/main.c7951c90.css.map",
-    "main.a570cde1.js.map": "/portfolio/static/js/main.a570cde1.js.map",
+    "main.09bb1950.js.map": "/portfolio/static/js/main.09bb1950.js.map",
     "453.5a6a3e46.chunk.js.map": "/portfolio/static/js/453.5a6a3e46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7951c90.css",
-    "static/js/main.a570cde1.js"
+    "static/js/main.09bb1950.js"
   ]
 }
